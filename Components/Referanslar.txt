@@ -1,0 +1,232 @@
+		<tr>
+                  <td>AGRİKEM ANA DEĞİRMEN</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>ADOPEN</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>AKATEK TEKSTİL</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>AKDOKU TEKSTİL</td>
+                  <td>DENİZLİ</td>
+                </tr>
+                <tr>
+                  <td>ALABEYLİ UN</td>
+                  <td>KONYA</td>
+                </tr>
+                <tr>
+                  <td>ANADOLU HASTANESİ</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>ANIL UN</td>
+                  <td>Bursa</td>
+                </tr>
+                <tr>
+                  <td>ARATEON YAPI SİLAH FABRİKASI</td>
+                  <td>BALIKESİR</td>
+                </tr>
+                <tr>
+                  <td>BARİLLA MAKARNA</td>
+                  <td>BOLU</td>
+                </tr>
+                <tr>
+                  <td>DESPAK TARIM ÜRÜNLERİ</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>EGE UN </td>
+                  <td>MANİSA</td>
+                </tr>
+                <tr>
+                  <td>EKİCİ PEYNİR SÜT ÜRÜN.</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>EYÜP SABRİ TUNCER</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>FATİH KALEM A.Ş.</td>
+                  <td>DENİZLİ</td>
+                </tr>
+                <tr>
+                  <td>GNC AMBALAJ SANAYİ</td>
+                  <td>KONYA</td>
+                </tr>
+                <tr>
+                  <td>HAŞİM BALABAN OTOMOTİV </td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>HAVA KOMUTANLIĞI - ELİT PROJE</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>HONNES SAĞLIK EKİPMANLARI</td>
+                  <td>SAKARYA</td>
+                </tr>
+                <tr>
+                  <td>KORKMAZLAR LEBLEBİ FABRİKLASI </td>
+                  <td>KÜTAHYA</td>
+                </tr>
+                <tr>
+                  <td>KÜÇÜKER TEKSTİL</td>
+                  <td>DENİZLİ</td>
+                </tr>
+                <tr>
+                  <td>MANOLYA DOĞAL ÜRÜNLERİ</td>
+                  <td>ISPARTA</td>
+                </tr>
+                <tr>
+                  <td>MAN OTOBÜS SERVİS FABRİKASI</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>MAVİ SAFİR</td>
+                  <td>MUĞLA</td>
+                </tr>
+                <tr>
+                  <td>MAVİ SAFİR ÇAMAŞIRHANE</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>MAVİ SAFİR ÇAMAŞIRHANE</td>
+                  <td>ANTALYA/MANAVGAT</td>
+                </tr>
+                <tr>
+                  <td>MEDICINE HASTANE</td>
+                  <td>İSTANBUL</td>
+                </tr>
+                <tr>
+                  <td>MERAM UN</td>
+                  <td>KONYA</td>
+                </tr>
+                <tr>
+                  <td>MKE-MAKİNE KİMYA END.</td>
+                  <td>KIRIKKALE</td>
+                </tr>
+                <tr>
+                  <td>MECA METAL – SP GAYRİMENKUL İTH.İHR.İNŞ.A.Ş.</td>
+                  <td>İZMİR</td>
+                </tr>
+                <tr>
+                  <td>MFA İŞ GÜVENLİĞİ MEDİKAL A.Ş</td>
+                  <td>ZONGULDAK</td>
+                </tr>
+                <tr>
+                  <td>NISHEN SEIFUN MAKARNA</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>NUH UN MAKARNA</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>OVA UN  MAKARNA</td>
+                  <td>KONYA</td>
+                </tr>
+                <tr>
+                  <td>ÖZEGE TEKSTİL</td>
+                  <td>UŞAK</td>
+                </tr>
+                <tr>
+                  <td>ÖZMENLER UN</td>
+                  <td>GAZİANTEP</td>
+                </tr>
+                <tr>
+                  <td>ÖZPAM OTOMOTİV </td>
+                  <td>DENİZLİ</td>
+                </tr>
+                <tr>
+                  <td>PAK UN</td>
+                  <td>SAMSUN</td>
+                </tr>
+                <tr>
+                  <td>PETEK PASTANESİ</td>
+                  <td>KONYA</td>
+                </tr>
+                <tr>
+                  <td>SERKAN İNŞAAT</td>
+                  <td>SİVAS</td>
+                </tr>
+                <tr>
+                  <td>SERKAN İNŞAAT</td>
+                  <td>AKSARAY</td>
+                </tr>
+                <tr>
+                  <td>SERKAN İNŞAAT</td>
+                  <td>MUĞLA</td>
+                </tr>
+                <tr>
+                  <td>SERKAN İNŞAAT</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>SERKAN İNŞAAT / ATLETİZM STADYUMU</td>
+                  <td>ISPARTA</td>
+                </tr>
+                <tr>
+                  <td>SULTAN ET GIDA</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>TARIM KREDİ BİRLİK AYÇİÇEK</td>
+                  <td>BALIKESİR</td>
+                </tr>
+                <tr>
+                  <td>TARIM KREDİ BİRLİK AYÇİÇEK</td>
+                  <td>TEKİRDAĞ</td>
+                </tr>
+                <tr>
+                  <td>TARIM KREDİ KOP. KAYA ŞEHİR</td>
+                  <td>İSTANBUL</td>
+                </tr>
+                <tr>
+                  <td>TARIM KREDİ KOP. GİMAT MARKET</td>
+                  <td>İSTANBUL</td>
+                </tr>
+                <tr>
+                  <td>TARIM KREDİ KOP. KAZAN ET ENTEGRE </td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>TAT GIDA A.Ş</td>
+                  <td>BURSA</td>
+                </tr>
+                <tr>
+                  <td>TAT GIDA A.Ş</td>
+                  <td>İZMİR</td>
+                </tr>
+                <tr>
+                  <td>TOBB</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>TÜRK ALMAN ÜNİVERSİTESİ</td>
+                  <td>İSTANBUL</td>
+                </tr>
+                <tr>
+                  <td>ÜLKER BİSKÜVİ</td>
+                  <td>KARAMAN</td>
+                </tr>
+                <tr>
+                  <td>ÜLKER BİSKÜVİ</td>
+                  <td>ANKARA</td>
+                </tr>
+                <tr>
+                  <td>YAPRAKLAR TEKSTİL</td>
+                  <td>DENİZLİ</td>
+                </tr>
+                <tr>
+                  <td>YAŞAM HASTANESİ</td>
+                  <td>ANTALYA</td>
+                </tr>
+                <tr>
+                  <td>ZÜMRÜT İNŞAAT </td>
+                  <td>MANİSA</td>
+                </tr>
